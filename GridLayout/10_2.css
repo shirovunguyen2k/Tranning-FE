@@ -1,0 +1,31 @@
+.container{
+    display: grid;
+    height: 100vh;
+    gap: 40px;
+    grid-template-columns: 1fr 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+   
+    background-color: violet;
+}
+.icon{
+    background-color: aqua;
+    grid-column: span 2;
+}
+.people{
+    background-color: chartreuse;
+    order: 1;
+    grid-column: span 2;
+}
+.book{
+    /* grid-column-start: 3;
+    grid-column-end: 4; 
+    grid-row-start: 1;
+    grid-row-end:3 ; */
+    grid-area: 1/3/3/4;
+}
