@@ -1,0 +1,22 @@
+.row{
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(224, 224, 224);
+}
+
+.text-start {
+    margin: 15px;
+}
+
+.col-3{
+    padding: 15px;
+    width: 315px;
+    margin: 2px;
+    background-color: rgb(255, 255, 255);
+}
+.row-horizontal{
+    display: flex;
+    align-items: center;
+    
+}
+
