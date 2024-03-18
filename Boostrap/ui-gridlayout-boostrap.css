@@ -14,9 +14,9 @@
     margin: 2px;
     background-color: rgb(255, 255, 255);
 }
+
 .row-horizontal{
     display: flex;
-    align-items: center;
-    
+    align-items: center; 
 }
 
