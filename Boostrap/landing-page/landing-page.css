@@ -17,3 +17,44 @@
 .col-lg-6{
     padding: 50px;
 }
+
+#background {
+    background-image: url('./img/bg-masthead.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+    background-position: center;
+}
+
+#bg{
+    background-image: url('./img/bg-masthead.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    background-position: center;
+}
+
+.showcase-img{
+    height: 50vh;
+    background-position: center;
+}
+
+#showcase-img-one{
+    background-image: url('./img/bg-showcase-1.jpg');
+}
+
+#showcase-img-two{
+    background-image: url('./img/bg-showcase-2.jpg');
+}
+
+#showcase-img-three{
+    background-image: url('./img/bg-showcase-3.jpg');
+}
+
+.fa-solid, .fa-brands{
+    background-color: white;
+    color: rgb(89, 181, 196);
+    font-size: 50px;
+}
