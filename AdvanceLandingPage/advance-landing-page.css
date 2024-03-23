@@ -1,0 +1,71 @@
+.bg-secondary {
+  opacity: 0.5;
+}
+
+.img-dasboard img {
+  width: 50%;
+}
+
+.icon-features i {
+  font-size: 40px;
+  color: palevioletred;
+  padding: 2rem;
+}
+
+.image i {
+  color: palevioletred;
+  font-size: 30px;
+}
+
+.avatar img {
+  width: 35px;
+  height: 35px;
+}
+
+.col .review {
+  min-height: 300px;
+}
+
+.card-image {
+  border-top-left-radius: 100px;
+  border-top-right-radius: 20px;
+}
+
+.image-boy img {
+  width: 50%;
+}
+
+.image-contact img {
+  width: 100%;
+  border-top-left-radius: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: palevioletred;
+}
+
+.tittle img {
+  width: 40%;
+}
+
+.icon-pricing {
+  font-size: 50px;
+  color: palevioletred;
+}
+
+.fa-regular i {
+  margin-right: 10px;
+}
+
+.icon-box {
+  font-size: 30px;
+}
+
+.icon-contact {
+  font-size: 25px;
+}
