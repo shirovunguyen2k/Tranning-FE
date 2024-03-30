@@ -1,0 +1,26 @@
+.press {
+  opacity: 0.5;
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  color: red;
+}
+.drum.w {
+  background-color: red;
+}
+.drum.a {
+  background-color: orange;
+}
+.drum.s {
+  background-color: yellow;
+}
+.drum.d {
+  background-color: green;
+}
+.drum.j {
+  background-color: blue;
+}
+.drum.k {
+  background-color: purple;
+}
+.drum.l {
+  background-color: pink;
+}
