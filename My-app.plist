@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+ <dict>
+  <key>items</key>
+  <dict>
+   <key>assets</key>
+   <array>
+    <dict>
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key>
+     <string>https://drive.vietnamairlines.com/userportal/#/shared/public/pdDRViPQ0fC30NFX/VNAACA_PRD_Signed.ipa</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>display-image</string>
+     <key>need-shine</key>
+     <integer>0</integer>
+     <key>url</key>
+     <string>https://github.com/Sound1ab/Notation/blob/master/Master-Detail%20Application3/Design/Icon/icon.png</string>
+    </dict>
+   </array>
+   <key>metadata</key>
+   <array>
+    <dict>
+     <key>bundle-identifier</key>
+     <string>com.vietnamairlines.VNAACA</string>
+     <key>bundle-version</key>
+     <string>1.0.0</string>
+     <key>kind</key>
+     <string>software</string>
+     <key>title</key>
+     <string>My app</string>
+    </dict>
+   </array>
+  </dict>
+ </dict>
+</plist>
