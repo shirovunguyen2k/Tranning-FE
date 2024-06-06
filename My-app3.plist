@@ -18,7 +18,7 @@
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>https://github.com/shirovunguyen2k/Tranning-FE/blob/main/mobileops.png</string>
+      <string>https://ibb.co/mc5SmXN</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -26,7 +26,7 @@
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>https://github.com/shirovunguyen2k/Tranning-FE/blob/main/mobileops_57.png</string>
+      <string>https://ibb.co/pwgs2XP</string>
      </dict>
     </array>
     <key>metadata</key>
@@ -34,13 +34,13 @@
      <key>bundle-identifier</key>
      <string>H663873Z9V.com.vietnamairlines.VNAACA</string>
      <key>bundle-version</key>
-     <string>136</string>
+     <string>9696</string>
      <key>kind</key>
      <string>software</string>
      <key>subtitle</key>
      <string>Apple</string>
      <key>title</key>
-     <string>VNAACA</string>
+     <string>Airport Comp</string>
     </dict>
    </dict>
   </array>
